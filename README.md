@@ -40,6 +40,7 @@ Credit card fraud is rare but costly. In this dataset, only ~0.17% of transactio
 Random Forest outperformed Logistic Regression, achieving higher AUC — meaning it caught more actual fraud cases while maintaining reasonable precision.
 
 SERVER TO RUN
+<br>
 python -m streamlit run app.py
 
 ## 📁 Note on Model Files
