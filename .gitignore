@@ -1,1 +1,11 @@
 *.pkl
+*.joblib
+*.csv
+*.zip
+creditcard_data/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+Thumbs.db
